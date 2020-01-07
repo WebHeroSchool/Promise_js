@@ -1,7 +1,7 @@
 
 const body = document.body;
 let loc = location.href;
-let name1 =loc.slice(43);
+let name1 =loc.slice(45);
 const data = new Date ();
 
 const getTime = new Promise((resolve, reject) => {
