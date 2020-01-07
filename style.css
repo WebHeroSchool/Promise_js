@@ -1,0 +1,11 @@
+.active {
+    display:none;
+}
+.active_login {
+    display: block;
+}
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
